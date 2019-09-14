@@ -1,0 +1,12 @@
+p{
+    margin-top: 30px;
+    color:darkslategray;
+}
+
+
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: teal;
+    width:100%;
+}
