@@ -2,3 +2,14 @@ img {
     height: 200px;
     width: 200px;
 }
+.container{
+    vertical-align: center;
+
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    background-color: teal;
+}
