@@ -3,8 +3,12 @@ img {
     width: 200px;
 }
 .container{
-    vertical-align: center;
 
+position: absolute;
+
+}
+.col-md-4{
+   margin-top:20px;
 }
 
 footer{
